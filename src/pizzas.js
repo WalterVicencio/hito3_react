@@ -6,6 +6,7 @@ export const ListaPizzas = [
     ingredients: ["mozzarella", "tomates", "jamón", "orégano"],
     name: "napolitana",
     price: 5950,
+    cantidad: 0,
   },
   {
     desc: "La pizza es una preparación culinaria que consiste en un pan plano, habitualmente de forma circular, elaborado con harina de trigo, levadura, agua y sal (a veces aceite de oliva) que comúnmente se cubre con salsa de tomate, queso y otros muchos ingredientes, y que se hornea a alta temperatura, tradicionalmente en un horno de leña.",
@@ -14,6 +15,7 @@ export const ListaPizzas = [
     ingredients: ["mozzarella", "tomates", "jamón", "choricillo"],
     name: "española",
     price: 7250,
+    cantidad: 0,
   },
   {
     desc: "La pizza es una preparación culinaria que consiste en un pan plano, habitualmente de forma circular, elaborado con harina de trigo, levadura, agua y sal (a veces aceite de oliva) que comúnmente se cubre con salsa de tomate, queso y otros muchos ingredientes, y que se hornea a alta temperatura, tradicionalmente en un horno de leña.",
@@ -22,6 +24,7 @@ export const ListaPizzas = [
     ingredients: ["mozzarella", "tomates", "salame", "orégano"],
     name: "salame",
     price: 5990,
+    cantidad: 0,
   },
   {
     desc: "La pizza es una preparación culinaria que consiste en un pan plano, habitualmente de forma circular, elaborado con harina de trigo, levadura, agua y sal (a veces aceite de oliva) que comúnmente se cubre con salsa de tomate, queso y otros muchos ingredientes, y que se hornea a alta temperatura, tradicionalmente en un horno de leña.",
@@ -30,6 +33,7 @@ export const ListaPizzas = [
     ingredients: ["mozzarella", "salame", "aceitunas", "champiñones"],
     name: "cuatro estaciones",
     price: 9590,
+    cantidad: 0,
   },
   {
     desc: "La pizza es una preparación culinaria que consiste en un pan plano, habitualmente de forma circular, elaborado con harina de trigo, levadura, agua y sal (a veces aceite de oliva) que comúnmente se cubre con salsa de tomate, queso y otros muchos ingredientes, y que se hornea a alta temperatura, tradicionalmente en un horno de leña.",
@@ -38,6 +42,7 @@ export const ListaPizzas = [
     ingredients: ["mozzarella", "tomates cherry", "bacon", "orégano"],
     name: "bacon",
     price: 6450,
+    cantidad: 0,
   },
   {
     desc: "La pizza es una preparación culinaria que consiste en un pan plano, habitualmente de forma circular, elaborado con harina de trigo, levadura, agua y sal (a veces aceite de oliva) que comúnmente se cubre con salsa de tomate, queso y otros muchos ingredientes, y que se hornea a alta temperatura, tradicionalmente en un horno de leña.",
@@ -46,5 +51,6 @@ export const ListaPizzas = [
     ingredients: ["mozzarella", "pimientos", "pollo grillé", "orégano"],
     name: "pollo picante",
     price: 8500,
+    cantidad: 0,
   },
 ];
